@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Mohammad Ali Vellayati Husaini
+- 🎓 I Graduated from Pamulang University on Informatics Engineering
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Laravel Framework
-- 📫 How to reach me :
+- 🌱 I’m currently exited to learning Laravel Framework
+- 📫 You can reach me :
 Instagram : @alihusaini_
 linkedin : Mohammad Ali Vellayati Husaini
 
