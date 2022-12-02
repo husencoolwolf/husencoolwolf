@@ -1,11 +1,12 @@
-  <img width="100px" height="100px" src="https://i.imgur.com/E9EHO5l.gif" id="social">
+  <img width="100px" height="100px" src="https://i.imgur.com/E9EHO5l.gif" id="top">
 
 - 👋 Hi, I’m Mohammad Ali Vellayati Husaini
 - 🎓 I Graduated from Pamulang University on Informatics Engineering
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently exited to learning Laravel Framework
 
-## Connect with me  
+## Connect with me
+
 <div align="center">
 <a href="https://github.com/husencoolwolf" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -16,7 +17,7 @@
 <a href="https://linkedin.com/in/mohammad-ali-vellayati-husaini-8b456a17b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
 
 <br/>
 
@@ -75,12 +76,13 @@
 <a href="https://www.canva.com/id_id/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a>
 -->
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=husencoolwolf&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats
+
+<div align="center"><a href="#top"> <img src="https://github-readme-stats.vercel.app/api?username=husencoolwolf&show_icons=true&count_private=true&hide_border=true" align="center" /></a></div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
+![](https://komarev.com/ghpvc/?username=husencoolwolf&style=for-the-badge)
+</div>
 
 <!---
 husencoolwolf/husencoolwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
