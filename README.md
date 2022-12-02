@@ -1,5 +1,6 @@
-<img src="https://i.imgur.com/E9EHO5l.gif" id="social">
-
+<div style="width: 100%">
+  <img style="align:center" src="https://i.imgur.com/E9EHO5l.gif" id="social">
+</div>
 
 - 👋 Hi, I’m Mohammad Ali Vellayati Husaini
 - 🎓 I Graduated from Pamulang University on Informatics Engineering
