@@ -3,8 +3,12 @@
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently exited to learning Laravel Framework
 - 📫 You can reach me :
-Instagram : @alihusaini_
-linkedin : Mohammad Ali Vellayati Husaini
+  Instagram : @alihusaini\_
+  linkedin : Mohammad Ali Vellayati Husaini
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=husencoolwolf)](https://github.com/anuraghazra/github-readme-stats)
 
