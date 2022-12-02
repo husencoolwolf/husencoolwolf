@@ -13,9 +13,6 @@
 <a href="https://instagram.com/alihusaini_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/husencoolwolf" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/mohammad-ali-vellayati-husaini-8b456a17b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
@@ -78,9 +75,12 @@
 <a href="https://www.canva.com/id_id/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a>
 -->
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=husencoolwolf&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=husencoolwolf)](#social)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
 
 <!---
 husencoolwolf/husencoolwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
