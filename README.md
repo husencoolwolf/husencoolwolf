@@ -11,7 +11,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=husencoolwolf)](https://github.com/husencoolwolf/husencoolwolf)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=husencoolwolf)]
 
 <!---
 husencoolwolf/husencoolwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
