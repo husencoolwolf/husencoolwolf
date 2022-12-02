@@ -80,10 +80,13 @@
 
 <div align="center"><a href="#top"> <img src="https://github-readme-stats.vercel.app/api?username=husencoolwolf&show_icons=true&count_private=true&hide_border=true" align="center" /></a></div>
 
-<div align="center">
-![](https://komarev.com/ghpvc/?username=husencoolwolf&style=for-the-badge)
-</div>
+<!-- <div align="center">
+![]()
+</div> -->
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=husencoolwolf&style=for-the-badge" align="center" />
+</div>  
 <!---
 husencoolwolf/husencoolwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
