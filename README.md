@@ -3,10 +3,10 @@
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently exited to learning Laravel Framework
 - 📫 You can reach me :
-Instagram : @alihusaini_
-linkedin : Mohammad Ali Vellayati Husaini
+  Instagram : @alihusaini\_
+  linkedin : Mohammad Ali Vellayati Husaini
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?husencoolwolf=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 husencoolwolf/husencoolwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
