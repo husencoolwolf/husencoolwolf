@@ -1,8 +1,12 @@
 <div align="center">
-  <img width="200px" src="https://i.imgur.com/E9EHO5l.gif" id="top">
+  <a href="#">
+    <img width="200px" src="https://i.imgur.com/E9EHO5l.gif" id="top">
+  </a>
 </div>
 <div>
-  <img src="snake-github.svg">
+  <a href="#">
+    <img src="snake-github.svg">
+  </a>
 </div>
 
 
@@ -84,14 +88,16 @@
 
 ## Github Stats
 
-<div align="center"><a href="#top"> <img src="https://github-readme-stats.vercel.app/api?username=husencoolwolf&show_icons=true&count_private=true&hide_border=true" align="center" /></a></div>
+<div align="center"><a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=husencoolwolf&show_icons=true&count_private=true&hide_border=true" align="center" /></a></div>
 
 <!-- <div align="center">
 ![]()
 </div> -->
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=husencoolwolf&style=for-the-badge" align="center" />
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=husencoolwolf&style=for-the-badge" align="center" />
+  </a>
 </div>  
 <!---
 husencoolwolf/husencoolwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
