@@ -1,4 +1,10 @@
-  <img width="100px" height="100px" src="https://i.imgur.com/E9EHO5l.gif" id="top">
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/E9EHO5l.gif" id="top">
+</div>
+<div>
+  <img src="snake-github.svg">
+</div>
+
 
 - 👋 Hi, I’m Mohammad Ali Vellayati Husaini
 - 🎓 I Graduated from Pamulang University on Informatics Engineering with score 3.31
